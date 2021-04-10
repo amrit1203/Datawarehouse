@@ -1,0 +1,1 @@
+CREATE TABLE [DataSource1].[dbo].[Data_Source1]([Station Id] [varchar](max) NOT NULL,[Station Name] [varchar](max) NOT NULL, [Latitude] [real] NOT NULL,[Longitude] [real] NOT NULL,[Elevation] [real] NOT NULL,[Date] [date] NOT NULL,[SNOW] [real] NULL, [SNWD] [real] NULL, [PRCP] [real] NULL,[TAVG] [int] NULL,[TMAX] [int] NULL,[TMIN] [int] NULL)

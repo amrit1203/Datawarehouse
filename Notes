@@ -1,0 +1,8 @@
+create source dbs
+constraints on dbs
+
+create data warehouse
+constraints
+
+live data extraction
+triggers

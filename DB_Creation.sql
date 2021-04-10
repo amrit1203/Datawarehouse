@@ -1,0 +1,3 @@
+Create Database DataSource1
+Create Database DataSource2
+Create Database Datawarehouse
